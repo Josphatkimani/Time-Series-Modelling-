@@ -1,4 +1,5 @@
 # Real Estate Investment Prediction with Zillow Data
+![Housing Image](/images/housing.png "Real Estate Investment")
 
 ## Overview
 This repository contains the analysis of historical median house prices sourced from Zillow, covering the period from April 1996 to April 2018. The project's objective is to pinpoint the top locations within the US for real estate investment, utilizing time series forecasting methods.
